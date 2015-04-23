@@ -19,4 +19,5 @@ public class Swing : MonoBehaviour {
 	void OnEnable(){
 		pos = hookSpot.transform.position;
 	}
+
 }
