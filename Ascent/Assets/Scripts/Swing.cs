@@ -7,7 +7,9 @@ public class Swing : MonoBehaviour {
 	// Use this for initialization
 	//public int count = 0;
 
+
 	//ASHLEYS COMP
+    //THIS IS A COMMENT
 
 	void Start () {
 		//pos = hookSpot.transform.position;
