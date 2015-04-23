@@ -7,7 +7,7 @@ public class FollowPlayer : MonoBehaviour {
 	public float yOffset = 0f;
 	// Use this for initialization
 	void Start () {
-        //TEST
+        
 	}
 	
 	// Update is called once per frame
