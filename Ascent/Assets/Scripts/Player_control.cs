@@ -22,6 +22,8 @@ public class Player_control: MonoBehaviour {
 	public string terrain;			//type of terrain player is standing/walking on
 	public bool needsFlip = false;
 	
+    //NOTE TEST
+
 	// Use this for initialization
 	void Start (){
 		animator = GetComponent<Animator> ();
