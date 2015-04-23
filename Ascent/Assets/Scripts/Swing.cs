@@ -6,6 +6,9 @@ public class Swing : MonoBehaviour {
 	public HookSpot hookSpot;
 	// Use this for initialization
 	//public int count = 0;
+
+	//ASHLEYS COMP
+
 	void Start () {
 		//pos = hookSpot.transform.position;
 	}
